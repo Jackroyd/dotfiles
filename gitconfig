@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ackroydjosh93@gmail.com
+	name = Josh Ackroyd
